@@ -1,0 +1,24 @@
+{
+  "name": "bigdatatrade",
+  "version": "0.0.1",
+  "description": "\"A small library to fetch and pass order on values on the financial market\"",
+  "main": "./lib/bigdatatrade.js",
+  "scripts": {
+    "test": "echo \" Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BigDataTrade/AlgorithmicTradingAPINodeJS.git"
+  },
+  "keywords": [
+    "[\"finance\"",
+    "\"trading\"",
+    "\"bigdatatrade\"",
+    "]"
+  ],
+  "author": "Nacass Tommy <tommy.nacass@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BigDataTrade/AlgorithmicTradingAPINodeJS/issues"
+  }
+}
