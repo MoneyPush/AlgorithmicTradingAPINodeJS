@@ -14,9 +14,9 @@ git clone https://github.com/BigDataTrade/AlgorithmicTradingAPINodeJS.git
 
 ## Usage Instructions
 
-Check that your 3002 port is opened.
+Check that your 3002 port is opened and available.
 
-The key required is available in the personal informations of your account at  [http://www.bigdata-trade.com/#/][http://www.bigdata-trade.com/#/]
+The key required is available in the personal informations of your account at  [http://www.bigdata-trade.com/](http://www.bigdata-trade.com/)
 
 When the clone repository is at in the same directory as your .js file, follows those instructions to get the stream: 
 
